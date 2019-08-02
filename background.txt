@@ -1,0 +1,5 @@
+<p>
+The Minor Planet Center has used an uncertainty parameter and <a href=https://minorplanetcenter.net/iau/info/UValue.html>quality code</a> to indicate the reliability of orbital fits for decades.  Quality codes also exist for <a href=https://sbnarchive.psi.edu/pds4/non_mission/ast-lightcurve-database_V2_0/document/pds_readme.txt>asteroid lightcurves</a> and for <a href=https://sbnarchive.psi.edu/pds4/non_mission/smallbodiesoccultations_V2_0/document/bundle_description.txt>asteroid stellar occultations</a>.
+
+<p>
+Because the quality of radar size estimates vary widely, we wish to develop and assign a quality code to radar results.  
